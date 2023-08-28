@@ -1,7 +1,7 @@
 name: Metric stats generator
 on:
   # Schedule daily updates
-  schedule: [{cron: "* * * * *"}]
+  schedule: [{cron: "* * */3 * *"}]
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
