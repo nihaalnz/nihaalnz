@@ -8,7 +8,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
                 <h1 class="field">
-                    <img class="avatar" src="data:image/jpg;base64,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" width="20" height="20" />
+                    <img class="avatar" src="data:image/jpg;base64,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" width="20" height="20" />
                     <span>Nihaal Nz</span>
                 </h1>
                 <div class="row">
@@ -243,7 +243,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.25
+                            Average per day at ~1.24
                         </div>
                     </section>
                 </div>
@@ -2208,13 +2208,28 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 May 2026, 02:37:13  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2026, 02:41:29  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
